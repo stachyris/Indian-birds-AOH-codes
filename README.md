@@ -17,3 +17,7 @@ India, since we find that substantial proportions of their AOHs fall outside pro
 result highlights the significance of alternative conservation models, including other effective
 area-based conservation measures. We show that species’ AOH provides a more realistic well-
 informed range that can aid in assessing their protection status
+
+
+
+![Graphical_Abstract_Indian_Birds_AOH_Biotropica](https://user-images.githubusercontent.com/61734552/172854049-58d2258c-dc47-49f7-951b-fa65c0cc1c26.jpeg)
