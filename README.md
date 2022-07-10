@@ -1,4 +1,4 @@
-# [Accepted in Biotropica] Using the Area of Habitat to Assess the Extent of Protection of India’s Birds
+# [Oublished in Biotropica] Using the Area of Habitat to Assess the Extent of Protection of India’s Birds
 
 
 India hosts multiple global biodiversity hotspots while being one of the most populous countries
