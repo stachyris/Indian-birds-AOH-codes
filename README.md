@@ -21,3 +21,6 @@ informed range that can aid in assessing their protection status
 
 
 ![Graphical_Abstract_Indian_Birds_AOH_Biotropica](https://user-images.githubusercontent.com/61734552/172854049-58d2258c-dc47-49f7-951b-fa65c0cc1c26.jpeg)
+
+
+How to cite this article: Warudkar, A., Goyal, N., Kher, V., Vinay, K. L., Chanda, R., Bandi, R. S., Jenkins, C. N., Robin, V. V., & Pimm, S. L. (2022). Using the area of habitat to assess the extent of protection of India's birds. Biotropica, 00, 1–14. https://doi.org/10.1111/btp.13132
